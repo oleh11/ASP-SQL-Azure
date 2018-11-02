@@ -1,0 +1,73 @@
+hr {
+	border-top: 2px solid rgba(0, 0, 0, .1);
+}
+
+.navcenter {
+	width: 100%;
+	text-align: center;
+}
+
+.navDiv {
+	margin-bottom: 60px;
+}
+
+.nav-item {
+	font-size: 17px;
+}
+
+.card-text {
+	font-size: 17px;
+}
+
+fieldset {
+	border: 1px solid black;
+	margin: 20px;
+	padding: 20px;
+}
+
+legend {
+	border: 1px solid black;
+	text-align: center;
+	margin: auto;
+	padding: 0;
+}
+
+.row {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+.display-3 {
+	text-align: center;
+}
+
+.display-4 {
+	text-align: center;
+}
+
+.jumbotron {
+	padding-top: 20px
+}
+
+.btn {
+	margin-right: 5px;
+	margin-left: 5px;
+}
+
+.table {
+	width: 50%;
+	max-width: 50%;
+}
+
+.card-body {
+	max-height: 500px;
+	overflow: auto;
+}
+
+.alignright {
+    float: right;
+}
+
+button, input, optgroup, select, textarea {
+    margin-left: auto !important;
+}
